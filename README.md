@@ -1,3 +1,8 @@
+
+# 📊 Amazon Sales Analytics Dashboard
+
+A full end-to-end Business Intelligence (BI) dashboard built using Tableau to analyze Amazon’s sales performance across regions, years, product categories, and channels. This project transforms raw transactional data into clean, interactive dashboards that deliver actionable insights for business, finance, and operations teams.
+
 ## Project Summary:
 
 This project showcases a full end-to-end Business Intelligence (BI) solution analyzing Amazon’s sales performance across regions, years, product categories, and channels.
