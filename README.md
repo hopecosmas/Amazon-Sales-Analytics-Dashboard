@@ -11,7 +11,7 @@ Executives Dashboard → Yearly trends, cost analysis & order breakdown
 
 Items Analysis Dashboard → Category-level revenue, cost, profit & order insights.
 
-### Key Business Questions Answered
+### Key Business Questions Answered:
 
 1. Which regions and countries generate the highest profit?
 
