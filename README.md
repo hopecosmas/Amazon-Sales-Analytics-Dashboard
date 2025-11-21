@@ -3,11 +3,6 @@
 
 A full end-to-end Business Intelligence (BI) dashboard built using Tableau to analyze Amazon’s sales performance across regions, years, product categories, and channels. This project transforms raw transactional data into clean, interactive dashboards that deliver actionable insights for business, finance, and operations teams.
 
-## Project Summary:
-
-This project showcases a full end-to-end Business Intelligence (BI) solution analyzing Amazon’s sales performance across regions, years, product categories, and channels.
-Using Tableau, I transformed raw transactional data into interactive dashboards that support business, finance, and operations teams with actionable insights.
-
 ### The project consists of three dashboards:
 
 Homepage Dashboard → High-level KPIs & geographic profit insights
